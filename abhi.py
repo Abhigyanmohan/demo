@@ -5,3 +5,6 @@ def mul():
 
 def div():
     pass
+
+def xx():
+    pass
